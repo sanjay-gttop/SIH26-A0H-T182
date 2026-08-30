@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |    Sanjay MS            | CB.SC.U4CSE24248       |    Male         |      B.tech/CSE                 |  
+|    Member 2     |                         | CB.SC.U4CSE24218       |    Male         |      B.tech/CSE                 |  
+|    Member 3     |    Dheebak Raaj         | CB.SC.U4CYS24118       |    Male         |       B.tec/CYS                 |  
+|    Member 4     |    Lakshya              |  CB.SC.U4CSE24728      |    Female       |       B.tech/CSE                |   
+|    Member 5     |    Sri Harinii          |  CB.SC.U4CSE24654      |    Female       |       B.tech/CSE                |  
+|    Member 6     |    Sriya K              |  CB.SC.U4CSE24657      |    Female       |       B.tech/CSE                |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |     N Radhika       |       Professor       |         CSE             | n_radhika@cb.amrita.edu  |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,9 +31,9 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
+* **Problem Statement ID: SIH26153
+* **Problem Statement Title: AI based Network Attack Forecasting from Network Traffic Data 
+* **Theme / Category: Blockchain & Cybersecurity / Software
 * **Ministry / Organization:**, wherever applicable
 
 #### PS#2
