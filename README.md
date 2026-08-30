@@ -13,7 +13,7 @@
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |    Sanjay MS            | CB.SC.U4CSE24248       |    Male         |      B.tech/CSE                 |  
 |    Member 2     |    G N Bhuvaneshwaran   | CB.SC.U4CSE24218       |    Male         |      B.tech/CSE                 |  
-|    Member 3     |    Dheebak Raaj         | CB.SC.U4CYS24118       |    Male         |       B.tec/CYS                 |  
+|    Member 3     |    Dheebak Raaj         | CB.SC.U4CYS24118       |    Male         |       B.tech/CYS                |  
 |    Member 4     |    Lakshya D            |  CB.SC.U4CSE24728      |    Female       |       B.tech/CSE                |   
 |    Member 5     |    Sri Harinii          |  CB.SC.U4CSE24654      |    Female       |       B.tech/CSE                |  
 |    Member 6     |    Sriya K              |  CB.SC.U4CSE24657      |    Female       |       B.tech/CSE                |   
@@ -34,11 +34,11 @@
 * **Problem Statement ID: SIH26153
 * **Problem Statement Title: AI based Network Attack Forecasting from Network Traffic Data 
 * **Theme / Category: Blockchain & Cybersecurity / Software
-* **Ministry / Organization:**, wherever applicable
+* **Ministry / Organization: NTRO
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26155
+* **Problem Statement Title: AI-Driven Multi-Vendor Network Security Compliance Auditor
+* **Theme / Category: Blockchain & Cybersecurity / Software
+* **Ministry / Organization: NTRO
