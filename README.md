@@ -14,7 +14,7 @@
 |   Team Leader   |    Sanjay MS            | CB.SC.U4CSE24248       |    Male         |      B.tech/CSE                 |  
 |    Member 2     |    G N Bhuvaneshwaran   | CB.SC.U4CSE24218       |    Male         |      B.tech/CSE                 |  
 |    Member 3     |    Dheebak Raaj         | CB.SC.U4CYS24118       |    Male         |       B.tec/CYS                 |  
-|    Member 4     |    Lakshya              |  CB.SC.U4CSE24728      |    Female       |       B.tech/CSE                |   
+|    Member 4     |    Lakshya D            |  CB.SC.U4CSE24728      |    Female       |       B.tech/CSE                |   
 |    Member 5     |    Sri Harinii          |  CB.SC.U4CSE24654      |    Female       |       B.tech/CSE                |  
 |    Member 6     |    Sriya K              |  CB.SC.U4CSE24657      |    Female       |       B.tech/CSE                |   
 
