@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-TXXX
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<In>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
